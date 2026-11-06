@@ -1,0 +1,1 @@
+The Sinkhorn_cINN_JKO_pl_strain.py file uses the snrGD optimizer. Hence both must be downloaded and together. In case the user wants to deploy any other optimizer the corresponding code block must be modified.
